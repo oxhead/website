@@ -17,7 +17,7 @@ authors = ["Chin-Jung Hsu", "Vincent W. Freeh", "Flavio Villanustre"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In the *6th Workshop on Scalable Cloud Data Management*"
+publication = "In the *6th Workshop on Scalable Cloud Data Management*, conjuncted with *2017 IEEE International Conference on Big Data (BIGDATA)*"
 publication_short = "In *SCDM*"
 
 # Abstract and optional shortened version.
@@ -37,7 +37,7 @@ selected = false
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = "files/paper_trilogy.pdf"
 # url_preprint = "#"
 # url_code = "#"
 # url_dataset = "#"

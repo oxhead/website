@@ -37,7 +37,7 @@ selected = true
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = "files/paper_inside-out.pdf"
 # url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 # url_code = "#"
 # url_dataset = "#"
